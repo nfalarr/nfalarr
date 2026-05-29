@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-I'm <b>Naufal Arrafii</b>, an Informatics & Computer Engineering Student from Indonesia 🇮🇩
+I'm <b>Naufal Arrafii Rahman</b>, an Informatics & Computer Engineering Student from Indonesia
 </p>
 
 <h2 align="left">About me</h2>
