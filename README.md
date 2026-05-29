@@ -49,14 +49,16 @@ Tracking my progress through continuous learning, development, and open-source c
 
 <div align="left">
   <a href="https://www.linkedin.com/in/naufal-arrafii-rahman-503093301/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin logo" />
-  </a>
-
-  <a href="mailto:nfalarr@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
   <a href="http://discordapp.com/users/544195752797143040" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+
+  <a href="mailto:nfalarr@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
+
+
