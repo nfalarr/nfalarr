@@ -40,14 +40,16 @@ I'm <b>Naufal Arrafii</b>, an Informatics & Computer Engineering Student from In
 <h2 align="left">My Coding Journey</h2>
 
 <p align="left">
-Tracking my progress through continuous learning and development.
+Tracking my progress through continuous learning, development, and open-source contributions.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph.svg"
+    alt="Puzzle Bobble Contribution Graph"
+    width="100%"
+  />
+</p>
 
 ###
 
@@ -64,8 +66,3 @@ Tracking my progress through continuous learning and development.
 </div>
 
 ###
-
-
-<p align="left">
-🚀 Currently building projects, learning new technologies, and improving every day.
-</p>
