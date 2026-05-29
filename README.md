@@ -37,13 +37,21 @@ I'm <b>Naufal Arrafii</b>, an Informatics & Computer Engineering Student from In
 Tracking my progress through continuous learning, development, and open-source contributions.
 </p>
 
-<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph.svg"
+  />
   <img
-    src="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph.svg"
     alt="Puzzle Bobble Contribution Graph"
+    src="https://raw.githubusercontent.com/nfalarr/nfalarr/pacman-output/puzzle-bobble-contribution-graph.svg"
     width="100%"
   />
-</p>
+</picture>
 
 <h2 align="left">Connect with me</h2>
 
